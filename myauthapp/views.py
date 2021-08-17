@@ -7,7 +7,6 @@ from django.contrib.auth import logout
 from .models import PredictIncome
 from .forms import PredictCreateForm
 from django.contrib.auth.mixins import LoginRequiredMixin
-from django.contrib.auth.decorators import login_required
 import pickle
 
 # Create your views here.
