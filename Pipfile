@@ -9,6 +9,8 @@ dj-database-url = "*"
 django-crispy-forms = "*"
 whitenoise = "*"
 gunicorn = "*"
+django-heroku = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
